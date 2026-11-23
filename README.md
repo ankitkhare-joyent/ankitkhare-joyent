@@ -23,4 +23,4 @@ runs locally with Docker and has its own write-up.
 **What I work with:** Python, Go, SQL, TypeScript · Spark, Iceberg, Trino, Airflow,
 DuckDB, Kafka, Flink · Kubernetes, Helm, Terraform, Temporal · AWS · LLM evaluation, MCP
 
-[LinkedIn](https://www.linkedin.com/in/ankitkhare97)
+[ankitkhare.dev](https://ankitkhare.dev) · [LinkedIn](https://www.linkedin.com/in/ankitkhare97)
